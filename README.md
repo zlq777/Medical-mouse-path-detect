@@ -3,4 +3,4 @@
 
 Medical mouse path aided direction detection: use opencv technology to assist in detecting and recording long-term mouse movement track. The project includes complete front end and back end, as well as detection files (the former to be supplemented)
 
-! [avator](https://github.com/zlq777/Medical-mouse-path-detect/blob/main/mic1.jpg)
+![image](https://github.com/zlq777/Medical-mouse-path-detect/blob/main/mic1.jpg)
